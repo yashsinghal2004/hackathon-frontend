@@ -193,4 +193,3 @@ For major changes, please open an issue first to discuss your proposed changes.
 
 MIT License © 2025 [Yash Singhal]
 
-"# hackathon-frontend" 
